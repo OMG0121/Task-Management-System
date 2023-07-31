@@ -48,8 +48,8 @@ Welcome to the Task Management System project! This is a simple Task Management 
 - cd ../backend
 - npm run dev
 
-![image](https://github.com/OMG0121/Task-Management-System/assets/106796509/85b4fce7-3390-4ff7-bf0a-4be516a11fa1)
+![image](https://github.com/OMG0121/Task-Management-System/assets/106796509/dde1c18e-3136-4cde-8cb8-b82fd30c8ee3)
 
-![image](https://github.com/OMG0121/Task-Management-System/assets/106796509/b5ee586b-15c4-44e1-986d-26ed73061b68)
+![image](https://github.com/OMG0121/Task-Management-System/assets/106796509/64ea6eeb-be26-4222-8c96-a1294dd0b53b)
 
 ## Happy Coding! ✨🚀
